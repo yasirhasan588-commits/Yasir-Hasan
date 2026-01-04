@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of OmniSheet AI",
+  "description": "A next-generation spreadsheet-database hybrid with integrated Gemini reasoning, relational logic, and visual automation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
